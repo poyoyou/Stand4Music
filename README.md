@@ -1,4 +1,4 @@
-# Stand4Music
+# Stand4Music (W.I.P)
 v2.0.0 version of the original Stand2Music app
 
 # How to use
@@ -24,5 +24,5 @@ android 10+
 
 # Credits
 this project includes all the stands from part 4(diamond is unbreakable) to part 9 (jojolands) and more online media.<br>
-if you got a problem or found a bug, feel free to post an issue here or dm le_sheeep on discord!<br>
+if you got a problem or found a bug, feel free to post an issue here or dm le_breadqueen on discord!<br>
 musics are own by their original authors, none of the musics in here are mine.
